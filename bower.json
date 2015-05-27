@@ -1,12 +1,12 @@
 {
   "name": "basic-spread-items",
   "description": "Spreads out a set of items horizontally so they take equal space.",
-  "version": "0.6.0-preview",
+  "version": "0.6.0",
   "license": "MIT",
   "main": "basic-spread-items.html",
   "dependencies": {
     "basic-aspect": "basic-web-components/basic-aspect#master",
-    "polymer": "Polymer/polymer#0.9.0-rc.1"
+    "polymer": "Polymer/polymer#0.9.0"
   },
   "devDependencies": {
     "basic-framed-content": "basic-web-components/basic-framed-content#master",
